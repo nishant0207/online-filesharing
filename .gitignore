@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+.env
+package-lock.json
+.vscode/
+.DS_Store
+
+# Python dependencies
+__pycache__/
+venv/
+.env
+*.pyc
